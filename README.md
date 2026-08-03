@@ -7,10 +7,13 @@ Frontend Engineer with a background as a business/systems analyst — now buildi
 - 🤖 Studying and practicing AI-first development
 - 📈 Background in business & systems analysis (BPMN, ER diagrams, SQL) — I like translating business needs into working software
 - 📫 Reach me at [butiakova.diana@gmail.com](mailto:butiakova.diana@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bt-diana)
+- 📄 [My CV](./cv/diana-butiakova-cv.pdf)
 
 ## Tech Stack
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **Build & Tooling:** ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 
@@ -23,7 +26,7 @@ Frontend Engineer with a background as a business/systems analyst — now buildi
 | Project | Description |
 |---|---|
 | **Tea Way Store** *(private)* | Production e-commerce site for a tea shop: React + TS + Vite, Redux Toolkit/RTK Query, Ant Design, Supabase-backed catalog with a one-way sync from a Django inventory system, WhatsApp checkout flow |
-| [**courses-app**](https://github.com/bt-diana/courses-app) | Full-stack app for searching, creating, and editing courses (TypeScript) |
+| [**courses-app**](https://github.com/bt-diana/courses-app) | Fullstack app for searching, creating, and editing courses (TypeScript) |
 | [**ci-cd_a11y_performance**](https://github.com/bt-diana/ci-cd_a11y_performance) | Set up a full CI/CD pipeline (GitHub Actions + Netlify), branch protection, and improved accessibility (Lighthouse ≥95) and Core Web Vitals on an existing app |
 | [**websocket-battleship**](https://github.com/bt-diana/websocket-battleship) | Real-time Battleship game server built on Node.js and WebSocket, with room management, an AI opponent, and Cluster-API load balancing |
 | [**crud-api**](https://github.com/bt-diana/crud-api) | REST CRUD API over an in-memory store, horizontally scaled with Node's Cluster API and round-robin load balancing |
