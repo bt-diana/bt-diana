@@ -21,12 +21,14 @@ Frontend Engineer with a background as a business/systems analyst — now buildi
 
 **CI/CD & Analytics:** ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
 
+**AI:** ![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-111?logo=githubcopilot)
+
 ## Featured Projects
 
 | Project | Description |
 |---|---|
 | **Tea Way Store** *(private)* | Production e-commerce site for a tea shop: React + TS + Vite, Redux Toolkit/RTK Query, Ant Design, Supabase-backed catalog with a one-way sync from a Django inventory system, WhatsApp checkout flow |
-| [**courses-app**](https://github.com/bt-diana/courses-app) | Fullstack app for searching, creating, and editing courses (TypeScript) |
+| [**claude-pr-review-toolkit**](https://github.com/bt-diana/claude-pr-review-toolkit) | Claude Code agents and skills that draft code-quality reviews for RS School React course pull requests: seven checks run in parallel, findings post as one pending review, and a single agent does the scoring. |
 | [**ci-cd_a11y_performance**](https://github.com/bt-diana/ci-cd_a11y_performance) | Set up a full CI/CD pipeline (GitHub Actions + Netlify), branch protection, and improved accessibility (Lighthouse ≥95) and Core Web Vitals on an existing app |
 | [**websocket-battleship**](https://github.com/bt-diana/websocket-battleship) | Real-time Battleship game server built on Node.js and WebSocket, with room management, an AI opponent, and Cluster-API load balancing |
 | [**crud-api**](https://github.com/bt-diana/crud-api) | REST CRUD API over an in-memory store, horizontally scaled with Node's Cluster API and round-robin load balancing |
